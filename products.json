@@ -1,0 +1,109 @@
+[
+  {
+    "name": "Computer",
+    "price": 25,
+    "company": "ikea",
+    "rating": 4
+  },
+  {
+    "name": "USB",
+    "price": 109,
+    "company": "Marjane",
+    "rating": 5
+  },
+  {
+    "name": "keyboard",
+    "price": 309,
+    "company": "electroplanet",
+    "rating": 4.9
+  },
+  {
+    "name": "Mouse",
+    "price": 125,
+    "company": "electroplanet",
+    "rating": 4.8
+  },
+  {
+    "name": "TV",
+    "price": 40,
+    "company": "Marjane",
+    "rating": 4.6
+  },
+  {
+    "name": "Fishe",
+    "price": 42,
+    "company": "Acima",
+    "rating": 4.55
+  },
+  {
+    "name": "Miror",
+    "price": 23,
+    "company": "Marjane"
+  },
+  {
+    "name": "Sofa",
+    "price": 59,
+    "featured": true,
+    "company": "ikea"
+  },
+  {
+    "name": "Bench",
+    "price": 39,
+    "featured": true,
+    "company": "ikea"
+  },
+
+  {
+    "name": "sofa",
+    "price": 99,
+    "company": "Marjane"
+  },
+  {
+    "name": "modern bookshelf",
+    "price": 31,
+    "featured": true,
+    "company": "Acima"
+  },
+  {
+    "name": "poster",
+    "price": 30,
+    "company": "ikea"
+  },
+  {
+    "name": "shelf",
+    "price": 30,
+    "company": "electroplanet"
+  },
+  {
+    "name": "chair",
+    "price": 109,
+    "company": "ikea"
+  },
+  {
+    "name": "sofa set",
+    "price": 129,
+    "company": "Marjane"
+  },
+  {
+    "name": "vase table",
+    "price": 120,
+    "featured": true,
+    "company": "ikea"
+  },
+  {
+    "name": "wooden bed",
+    "price": 25,
+    "company": "ikea"
+  },
+  {
+    "name": "desk",
+    "price": 15,
+    "company": "ikea"
+  },
+  {
+    "name": "wooden table",
+    "price": 23,
+    "featured": true,
+    "company": "Acima"
+  }
+]
